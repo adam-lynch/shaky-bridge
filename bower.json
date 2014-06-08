@@ -1,0 +1,13 @@
+{
+  "name": "shaky-bridge",
+  "version": "0.0.0",
+  "homepage": "https://github.com/adam-lynch/shaky-bridge",
+  "authors": [
+    "Adam Lynch <contact@adamlynch.ie>"
+  ],
+  "license": "none",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}

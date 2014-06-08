@@ -1,0 +1,28 @@
+{
+  "name": "shaky-bridge",
+  "version": "0.0.0",
+  "description": "shaky-bridge\r ============",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adam-lynch/shaky-bridge.git"
+  },
+  "author": "",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/adam-lynch/shaky-bridge/issues"
+  },
+  "homepage": "https://github.com/adam-lynch/shaky-bridge",
+  "devDependencies": {
+    "gulp": "^3.7.0",
+    "gulp-coffee": "^2.0.0",
+    "gulp-load-plugins": "^0.5.1",
+    "bower": "^1.3.5",
+    "gulp-bower-files": "^0.2.4",
+    "gulp-concat": "^2.2.0"
+  }
+}
